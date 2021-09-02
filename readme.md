@@ -11,4 +11,5 @@ As a software developer, my primary goal is to build useful software that solves
 I have attached my resume to this application. Please let me know if you need any other details from me. I look forward to hearing back from you.
 
 Regards,
+
 Akshay Khot
